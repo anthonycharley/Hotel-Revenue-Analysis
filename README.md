@@ -4,16 +4,9 @@ This project was made to provide stakeholders at a hotel answers to how the hote
 
 Questions from our stakeholders:
   - "Is our hotel revenue growing (YoY)?"
+  - "What revenue trends are we seeing over the course of these 3 years?"
   - "Should we increase the parking lot sizes of either hotel types?"
-  - "What trends are we seeing over the course of these 3 years?"
 
-Tools used:
-  - Microsoft SQL Server
-     - To filter and group data provided for dashboard
-  - Power BI
-     - To visualize data in a readable manner, show revenue growth, and show parking space usage over time
-
----
 # SQL Server Query
 
 <img width=100% height=auto alt="query_linked_to_hotel_dashboard" src="https://github.com/user-attachments/assets/b63dd19c-760f-4b12-ae2e-a142fcb69c33" />
